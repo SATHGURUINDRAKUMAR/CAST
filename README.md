@@ -5,4 +5,4 @@ TEAM MEMBER 1: https://trailblazer.me/id/shanthakumar
 TEAM MEMBER 2: https://trailblazer.me/id/dsharma1028
 TEAM MEMBER 3: https://trailblazer.me/id/akash26
 DOCUMENTATION LINK:https://drive.google.com/file/d/1CLZTFlgm5LmeGNrpZ7v7_ZTXOXtjcV8m/view?usp=drivesdk
-DEMO VIDEO LINK:https://drive.google.com/file/d/1UWmnjLgNbAnFtzOXMj90AGswT4PW-9l_/view?usp=drivesdk
+DEMO VIDEO LINK: https://drive.google.com/file/d/1aIG17v6UYCKF3s7maS5U8XpGsOBahnR1/view?usp=drivesdk
